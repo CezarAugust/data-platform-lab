@@ -42,7 +42,7 @@ It is responsible for:
 
 ---
 
-## 🔄 Workload Characteristics
+## Workload Characteristics
 
 This environment simulates:
 
@@ -95,7 +95,7 @@ This VM is part of a **database performance engineering lab**, used for:
 
 ---
 
-## 🔮 Future Evolution
+## Future Evolution
 
 This node may later evolve into:
 
