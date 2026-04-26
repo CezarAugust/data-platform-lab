@@ -25,7 +25,7 @@ It is responsible for:
 ## Compute Specifications
 
 - 2 vCPUs
-- 16 GB RAM
+- 8 GB RAM
 - Cloud-based Virtual Machine
 
 ---
