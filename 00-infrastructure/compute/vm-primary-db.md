@@ -2,9 +2,11 @@
 
 ## Overview
 
-This virtual machine is the primary database node of a production-like SQL Server lab environment.
+This virtual machine is the primary database node of a production-like SQL Server lab environment hosted in a cloud-based virtualized infrastructure.
 
-It is designed for performance analysis, workload simulation, and study of database engine behavior under constrained resources.
+It is designed for performance analysis, workload simulation, and study of database engine behavior under constrained cloud compute resources.
+
+This setup simulates a real-world cloud database environment, focusing on performance engineering, query optimization, and storage behavior analysis.
 
 ---
 
