@@ -37,7 +37,7 @@ It is responsible for:
 | Volume | Purpose |
 |--------|--------|
 | C: | Operating system and SQL Server binaries |
-| D: | TEMPDB (temporary objects, spills, sorts) |
+| E: | TEMPDB (temporary objects, spills, sorts) |
 | F: | DATA files (tables, indexes, user data) |
 | G: | LOG files (transaction log, sequential writes) |
 | H: | BACKUP storage |
