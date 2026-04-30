@@ -12,6 +12,8 @@
 	GO
 	ALTER DATABASE model SET RECOVERY FULL
 	GO
+	ALTER DATABASE model SET QUERY_STORE = OFF
+	GO
 
 	-- File Configuration (balanced for lab / production-like) and auto-Growth 
 	ALTER DATABASE model 
