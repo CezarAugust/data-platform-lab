@@ -38,9 +38,9 @@ It is responsible for:
 | Volume | Capacity | Purpose |
 |--------|----------|---------|
 | C: | 128 GB | Operating system, SQL Server binaries, and system databases |
-| E: | 32 GB | TEMPDB (temporary objects, sorting, hashing, spill operations) |
+| E: | 128 GB | TEMPDB (temporary objects, sorting, hashing, spill operations) |
 | F: | 64 GB | User data files (tables, indexes, user databases) |
-| G: | 32 GB | Transaction log files (sequential write operations) |
+| G: | 64 GB | Transaction log files (sequential write operations) |
 | H: | 64 GB | Backup storage (full, differential, and log backups) |
 
 ---
