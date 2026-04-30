@@ -8,8 +8,6 @@ This document describes the role of **DBA Dash** within the lab architecture, fo
 * Where it fits in the environment
 * How it complements other observability components
 
-This is **not a step-by-step installation guide**, but a reference for architectural decisions and operational usage.
-
 ---
 
 ##  Context
@@ -112,9 +110,9 @@ Only key configurations are documented here:
 
 ### Access & Permissions
 
-* Prefer least privilege access
-* Avoid sysadmin when possible
-* Restrict network access to monitoring VM
+* Least privilege access
+* Not sysadmin  
+* Restricted network access to monitoring VM
 
 ---
 
