@@ -109,8 +109,8 @@
     (
         NAME = ' + @DatabaseName + '_log,
         FILENAME = ''' + @LogPath + @DatabaseName + '.ldf'',
-        SIZE = 256MB,
-        FILEGROWTH = 256MB
+        SIZE = ' + @Size + ',
+        FILEGROWTH = ' + @AutoGrowth + '
     );
     '
 
